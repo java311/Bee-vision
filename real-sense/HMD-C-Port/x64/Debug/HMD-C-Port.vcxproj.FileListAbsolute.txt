@@ -1,0 +1,2 @@
+C:\bee-vision\source\real-sense\HMD-C-Port\x64\Debug\HMD-C-Port.exe
+C:\bee-vision\source\real-sense\HMD-C-Port\x64\Debug\HMD-C-Port.pdb
