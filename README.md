@@ -1,7 +1,14 @@
 # Bee Vision
 This is AR vision project that uses an stero camera along a monochrome infrared/uv sensor to enhance human vision into a Bee vision. 
 
-## More information about Bee vision
+For more info go to: https://docs.google.com/presentation/d/1815EMH4a4LPE7iLkHRDY29Lw1RvuR6CP9LhRx7gqRLs/edit#slide=id.p
+
+# Hardware
+By using depth information the image registration of the infrared or UV sensor is rectifed to the RGB camera perspective
+![](./img/system-description1.png)
+
+First results
+![](./img/system-description2.png)
 
 ## Video of the last prototype running in real time with OpenCV/CUDA (20 fps - still to slow for HMD... ) 
 
